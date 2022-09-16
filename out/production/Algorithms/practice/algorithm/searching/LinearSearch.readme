@@ -1,0 +1,22 @@
+Linear search is used to search an element from multiple elements.
+
+Algo:
+- Traverse the array
+- Match the key element with array element
+- If found return the index
+- else return -1
+
+Slower than : Binary search and Hashing
+
+Time complexity:
+    The best-case time : complexity of the linear search is o(1).
+    The average case time : complexity of the linear search is o(n).
+    The worst-case time : complexity of the linear search is o(n)
+
+
+SPACE COMPLEXITY:
+    The SPACE complexity of the linear search is o(1)
+
+
+
+
